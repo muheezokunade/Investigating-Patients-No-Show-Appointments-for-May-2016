@@ -6,7 +6,7 @@ This project aims to explore the Patients no show appointments for May 2016 data
 
 ## Data Source:
 
-The data for this analysis was obtained from the Patients no show appointments for May 2016 dataset. The dataset includes information on [relevant variables] for medical appointments in Brazil in May 2016.
+The data for this analysis was obtained from the [Patients no show appointments for May 2016 dataset](https://www.kaggle.com/datasets/joniarroba/noshowappointments). The dataset includes information on  PatientId, DataMarcacaoConsulta, Gender and other variables for medical appointments in Brazil in May 2016.
 
 ## Analysis Steps:
 
