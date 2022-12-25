@@ -10,12 +10,17 @@ The data for this analysis was obtained from the [Patients no show appointments 
 
 ## Analysis Steps:
 
-Load and clean the data
-Explore the distribution of no shows by location and time
-Investigate the characteristics of patients and appointments, including age, gender, and appointment type
-Identify patterns and trends in no shows
-Identify potential factors that may influence attendance
-Identify potential areas for improvement in appointment attendance
+- Load and clean the data
+
+- Explore the distribution of no shows by location and time
+
+- Investigate the characteristics of patients and appointments, including age, gender, and appointment type
+
+- Identify patterns and trends in no shows
+
+- Identify potential factors that may influence attendance
+
+- Identify potential areas for improvement in appointment attendance
 
 ## Results:
 
